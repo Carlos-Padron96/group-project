@@ -35,6 +35,11 @@ main h2 {
     color: blue;
     background-color: lightblue;
     padding: 3px;
+ .my-style {
+    color: green;
+    background-color: brown;
+    padding: 3px;
+}
 }
 
 .codys-styles {
